@@ -19,6 +19,6 @@
 - Input: 5; Expected: 15.
 - Input: 0; Expected: Error message.
 - Input: -3; Expected: Error message.
-- Input: 4.5; Expected: Error message.
+- Input: 4.5; Expected: Error message. (Hint: Use `Number.isInterger()` to check if it's interger)
 - Input: "test"; Expected: Error message.
 - Input: 10000; Expected: Valid sum.
